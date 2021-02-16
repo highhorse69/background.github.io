@@ -1,0 +1,22 @@
+{
+  "name": "background.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "9.2 script.js",
+  "scripts": {
+    "build": " browserify scri.js>bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highhorse69/background.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highhorse69/background.io/issues"
+  },
+  "homepage": "https://github.com/highhorse69/background.io#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
